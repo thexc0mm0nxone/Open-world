@@ -4,6 +4,6 @@ It is a public server
   <head>
   </head>
       <body>
-      <h3 style="color:blue;">Helloooo</h3>
+      <h3 style="color:#ff00ff;">Helloooo</h3>
     </body>
   </html>
