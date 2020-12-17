@@ -4,7 +4,7 @@ It is a public server
   <head>
   </head>
       <body>
-      <center>Helloooo</center>
+      <centre>Helloooo</centre>
         <img src="hi.jpg" alt="hi" width="300px">
     </body>
   </html>
