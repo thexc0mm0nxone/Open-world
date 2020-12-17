@@ -4,6 +4,7 @@ It is a public server
   <head>
   </head>
       <body>
-      <h3 style="color:#ff00ff;">Helloooo</h3>
+      <h3>Helloooo</h3>
+        <img src="hi.jpg" alt="hi">
     </body>
   </html>
