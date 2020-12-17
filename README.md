@@ -2,8 +2,8 @@
 It is a public server
 <html>
   <head>
-    <body>
-      <h1>Helloooo</h1>
-    </body>
   </head>
+      <body>
+      <h3 style="color:blue;">Helloooo</h3>
+    </body>
   </html>
