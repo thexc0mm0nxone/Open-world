@@ -5,6 +5,6 @@ It is a public server
   </head>
       <body>
       <h3>Helloooo</h3>
-        <img src="hi.jpg" alt="hi">
+        <img src="hi.jpg" alt="hi" width="300px">
     </body>
   </html>
