@@ -1,4 +1,7 @@
-
+<html>
+      <head>
+      </head>
+      <body>
       <h3 style="color:blue;">Helloooo</h3>
         <img src="hi.jpg" alt="hi" width="300px">
         <table border="1">
@@ -9,3 +12,6 @@
             <td>what</td>
           </tr>
         </table>
+      </body>
+      </html>
+      
